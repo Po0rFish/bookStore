@@ -1,0 +1,27 @@
+.Home-Page {
+  width: 100%;
+  min-height: 91.5vh;
+  max-height: auto;
+}
+
+
+
+.home_img {
+  height: inherit;
+  width: -webkit-fill-available;
+}
+
+.view_books {
+  text-decoration: none;
+  padding: 5px;
+}
+
+.description-section {
+  height: 100px;
+}
+
+
+
+.navbar .container .navbar-toggler {
+  background-color: rgb(42, 165, 136);
+}
